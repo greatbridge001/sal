@@ -1,0 +1,3 @@
+VITE_MPESA_CONSUMER_KEY=your_consumer_key
+VITE_MPESA_CONSUMER_SECRET=your_consumer_secret
+VITE_WHATSAPP_API_KEY=your_whatsapp_api_key
